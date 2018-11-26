@@ -28,3 +28,6 @@
 * `git commit -m "Your commit msg"`
 ### View changes mnade in git repo
 * `git diff filename`
+### To add a remote named 'origin' to your repository:
+* `git remote add origin <URLFROMGITHUB>`
+* `git remote set-url origin <URLFROMGITHUB>`
